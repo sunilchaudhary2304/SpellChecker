@@ -1,0 +1,12 @@
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Tests.dll
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Tests.pdb
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\nunit.framework.dll
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.dll
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\SharpEcho.Recruiting.SpellChecker.Core.pdb
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\bin\Debug\nunit.framework.xml
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\obj\Debug\SharpEcho.Recruiting.SpellChecker.Tests.csprojResolveAssemblyReference.cache
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\obj\Debug\SharpEcho.Recruiting.SpellChecker.Tests.csproj.CoreCompileInputs.cache
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\obj\Debug\SharpEcho.Recruiting.SpellChecker.Tests.dll
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Tests\obj\Debug\SharpEcho.Recruiting.SpellChecker.Tests.pdb

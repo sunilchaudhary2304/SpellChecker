@@ -1,0 +1,6 @@
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\bin\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.csprojResolveAssemblyReference.cache
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.csproj.CoreCompileInputs.cache
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.dll
+E:\2018_BACKUP\Project\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker\SharpEcho.Recruiting.SpellChecker.Contracts\obj\Debug\SharpEcho.Recruiting.SpellChecker.Contracts.pdb
